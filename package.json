@@ -1,0 +1,9 @@
+{
+  "name": "@sunguoqiang/prettier-config",
+  "description": "sunguoqiang's prettier config",
+  "main": "prettier.config.js",
+  "version": "0.0.1",
+  "scripts": {},
+  "author": "sunguoqiang",
+  "licence": "MIT"
+}
