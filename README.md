@@ -4,7 +4,7 @@
 
 ## Usage
 
-** Install **
+* Install *
 
 ```bash
 $ npm i -D sunguoqiang/prettier-config
