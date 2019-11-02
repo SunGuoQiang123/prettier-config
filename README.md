@@ -4,9 +4,27 @@
 
 ## Usage
 
-** Install **
+_Install_
 
 ```bash
 $ npm i -D sunguoqiang/prettier-config
 
+```
+
+_import_
+
+```json
+// package.json
+{
+  "prettier": "@sunguoqiang/prettier-config"
+}
+```
+
+or you want to override some config
+
+```javascript
+module.expoerts = {
+  ...require('@sunguoqiang/prettier-config'),
+  semi: false,
+};
 ```
