@@ -6,5 +6,6 @@ module.exports = {
   singleQuote: true,
   useTabs: false,
   vueIndentScriptAndStyle: false,
-  htmlWhitespaceSensitivity: 'ignore'
+  htmlWhitespaceSensitivity: 'ignore',
+  jsxSingleQuote: true
 };
